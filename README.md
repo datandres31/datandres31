@@ -2,7 +2,6 @@
 
 📊 Data Analytics, Machine Learning & Spatial Analysis
 
-Hola 👋
 Soy un profesional en formación continua en analítica de datos, con una especialización en analítica estratégica de datos.
 Este repositorio reúne mis prácticas, experimentos y proyectos mientras profundizo en análisis de datos, machine learning, análisis espacial y procesamiento de lenguaje natural.
 
